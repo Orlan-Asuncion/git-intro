@@ -14,4 +14,4 @@
 ##Git checkout
 * Git log
 * Git checkout
-* 
+* git revert --no-commit 089899..HEAD
